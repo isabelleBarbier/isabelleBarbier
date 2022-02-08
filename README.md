@@ -7,11 +7,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153059194-2f7a74c9-026e-42a1-ab11-c661113623dc.png" alt="sql" width="40" height="40"/>
 </p>
 <h3 align="left">Frontend Development</h3>  
 <p align="left">
@@ -22,8 +23,15 @@
 <h3 align="left">Machine Learning</h3>
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>   
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153054354-c910e456-548f-46cd-a37c-b5cf94364f03.svg" alt="statsmodels" width="40" height="40"/> </a> 
+<a href="https://www.https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153056904-ec1bba82-b482-42ac-9882-92f4146cb808.png" alt="scipy" width="40" height="40"/> </a>
+</p>
+<h3 align="left">Vizualisation</h3>
+<p align="left">
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153055715-303cb076-69d7-4e19-b924-dbb6250efe9c.png" alt="plotly" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153058262-ae13a199-2864-4c9b-af9a-01ce4e7f8610.png" alt="tableau" width="40" height="40"/> </a>  
 </p>
 <h3 align="left">Database</h3>
 <p align="left">
