@@ -27,7 +27,7 @@
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153054354-c910e456-548f-46cd-a37c-b5cf94364f03.svg" alt="statsmodels" width="40" height="40"/> </a> 
 <a href="https://www.https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153056904-ec1bba82-b482-42ac-9882-92f4146cb808.png" alt="scipy" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Vizualisation</h3>
+<h3 align="left">Visualization</h3>
 <p align="left">
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153055715-303cb076-69d7-4e19-b924-dbb6250efe9c.png" alt="plotly" width="40" height="40"/> </a>
