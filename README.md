@@ -44,4 +44,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153417420-a34cb54e-43fc-4e43-80a8-a336e08c98fb.png" alt="jupyter" width="40" height="40"/> </a>
+   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153417926-5a257844-6da2-42c2-9c1b-dff6aca67d1a.png" alt="pycharm" width="40" height="40"/> </a>
 </p>
