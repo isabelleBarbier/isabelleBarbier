@@ -1,6 +1,7 @@
 <h2 align="center">Hi👋, I'm Isabelle Barbier</h2>
 <h3 align="center">Interpreting data to reveal or predict trends has become a passion for me !</h3>
 
+<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="680"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/isabelle-barbier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelle-barbier" height="30" width="40" /></a>
