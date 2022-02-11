@@ -1,7 +1,7 @@
 <h2 align="center">Hi👋, I'm Isabelle Barbier</h2>
 <h3 align="center">Interpreting data to reveal or predict trends has become a passion for me !</h3>
 
-<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="660"/>
+<img align="right" alt="Woman" width="600" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="660"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/isabelle-barbier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelle-barbier" height="30" width="40" /></a>
@@ -40,7 +40,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
-<h6 align="right">illustration by Chris Johns</h6>
+<p align="right">illustration by Chris Johns</p>
 <h3 align="left">Others</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="git" width="40" height="40"/> </a> 
