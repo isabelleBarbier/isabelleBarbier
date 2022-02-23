@@ -32,7 +32,8 @@
 <p align="left">
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153055715-303cb076-69d7-4e19-b924-dbb6250efe9c.png" alt="plotly" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153058262-ae13a199-2864-4c9b-af9a-01ce4e7f8610.png" alt="tableau" width="40" height="40"/> </a>  
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/153058262-ae13a199-2864-4c9b-af9a-01ce4e7f8610.png" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/47240631/155393529-eac93143-0204-445a-9595-fb9740af22c9.png" alt="powerbi" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Database</h3>
 <p align="left">
