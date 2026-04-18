@@ -3,6 +3,7 @@
 
 
 <img align="middle" alt="Woman" width="650" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="650"/>
+<h6 align="middle">illustration by Chris Johns</h6>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/isabelle-barbier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelle-barbier" height="30" width="40" /></a>
@@ -65,6 +66,4 @@
     <td><a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/47240631/153417926-5a257844-6da2-42c2-9c1b-dff6aca67d1a.png" alt="pycharm" width="40" height="40"/></a></td>
   </tr>
 </table>
-
-<h6 align="right">illustration by Chris Johns</h6>
 
