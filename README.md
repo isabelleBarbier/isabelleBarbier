@@ -1,9 +1,7 @@
 <h2 align="center">Hi👋, I'm Isabelle Barbier</h2>
 <h3 align="center">Interpreting data to reveal or predict trends has become a passion for me !</h3>
-<br/>
-![Data Science](https://img.shields.io/badge/Data_Science-Passionate-FF6B6B?style=flat-square)
-![ML](https://img.shields.io/badge/Machine_Learning-Enthusiast-F7931E?style=flat-square)
-</br>
+
+
 <img align="right" alt="Woman" width="650" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="650"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
