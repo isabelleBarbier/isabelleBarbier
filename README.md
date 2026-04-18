@@ -1,7 +1,7 @@
 <h2 align="center">Hi👋, I'm Isabelle Barbier</h2>
 <h3 align="center">Interpreting data to reveal or predict trends has become a passion for me !</h3>
 
-![Static Badge](https://img.shields.io/badge/Data_Science-Passionate-brightgreen?style=flat-square) ![Static Badge](https://img.shields.io/badge/Machine_Learning-Enthusiast-F7931E?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Data_Science-Passionate-blue?style=flat-square) ![Static Badge](https://img.shields.io/badge/Machine_Learning-Enthusiast-F7931E?style=flat-square)
 
 
 <img align="middle" alt="Woman" width="650" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="650"/>
