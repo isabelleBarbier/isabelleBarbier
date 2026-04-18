@@ -67,4 +67,4 @@
 </table>
 
 <h6 align="right">illustration by Chris Johns</h6>
-https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
+
