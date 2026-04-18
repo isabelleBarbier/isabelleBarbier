@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Data_Science-Passionate-blue?style=flat-square) ![Static Badge](https://img.shields.io/badge/Machine_Learning-Enthusiast-F7931E?style=flat-square)
 
 
-<img align="middle" alt="Woman" width="650" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="650"/>
+<img align="middle" alt="Woman" width="850" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/media/a36a27a8892023cb8dc4b8bf85acdd8d.gif" height="650"/>
 <h6 align="middle">illustration by Chris Johns</h6>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
